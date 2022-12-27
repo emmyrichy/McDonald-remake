@@ -1,0 +1,407 @@
+*{
+  padding: 0;
+  box-sizing: border-box;
+  margin:0;
+  font-family: 'poppins',sans-serif;
+}
+
+header{
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  padding:10px;
+  background-color: ;
+}
+.logo{
+  position: relative;
+  height: 20px;
+  left: 20px;
+  
+}
+.upper{
+  display: block;
+}
+
+.menu{
+  position: relative;
+  height: 20px;
+  right: 20px;
+}
+.contain{
+  text-align: center;
+}
+.heading1{
+  margin-left: 15px;
+  margin-right: 15px;
+  font-weight: 700;
+  font-size: 27px;
+  line-height:40px;
+  margin-top: 50px;
+  font-family: 'poppins',sans-serif;
+}
+.page{
+  font-size: 14px;
+  margin-top:20px;
+  line-height:1.3rem;
+  font-family: 'poppins', sans-serif;
+  font-weight: 400;
+  color:#B8C0C8;
+}
+
+.btn{
+  border: none;
+  background-color: dodgerblue;
+  width: 300px;
+  margin-top:20px;
+  color: white;
+  height:50px;
+  font-size: 14px;
+  border-radius:40px;
+  cursor: pointer;
+  font-family: 'poppins',sans-serif
+}
+
+.okay{
+  background-color: dodgerblue;
+  height:450px;
+  width:100%;
+  margin-top:20px;
+  border-radius:30px;
+  position:relative;
+  align-items: center;
+  justify-content: center;
+}
+.mum{
+  font-size: 25px;
+  line-height:30px;
+  margin-top: 30px;
+  font-family: 'poppins', sans-serif;
+}
+
+.phone{
+  height:400px;
+  width:350px;
+  position: absolute;
+  bottom: 0px;
+ }
+
+.bro{
+  background-color: #F0F0F0;
+  height: 170px;
+  width:315px;
+  position: relative;
+  margin-top:20px;
+  margin-left: 20px;
+  border-radius:20px;
+}
+.convert{
+  position: relative;
+  left:20px;
+  top:15px;
+}
+
+.child{
+  padding-left: 20px;
+  margin-top:25px;
+  font-family: 'Poppins', sans-serif;
+}
+.sad{
+  color: #B8C0C8;
+  font-size: 13px;
+  line-height: 1.3rem
+}
+.bro1{
+  background-color: #F0F0F0;
+  height: 190px;
+  width:315px;
+  position: relative;
+  margin-top:20px;
+  margin-left: 20px;
+  border-radius:20px;
+}
+
+.bg{
+  text-align: center;
+  margin-left:25px;
+  background:linear-gradient(#58A8F0,#78B8F0,#98C8F0,#A8D0F8);
+  height:700px;
+  width: 310px;
+  position: relative;
+  border-radius: 40px;
+  margin-top:50px;
+}
+.dad{
+  color:white;
+  font-weight: 700;
+  font-size: 20px;
+  padding-top: 50px;
+  font-family: 'poppins',sans-serif;
+}
+.sis{
+  color: white;
+  padding-top: 15px;
+  font-family: 'poppins',sans-serif;
+  ;
+}
+.btn1{
+  border: #58A8F0;
+  background-color: white;
+  width: 250px;
+  margin-top:20px;
+  color: dodgerblue;
+  height:50px;
+  font-size: 14px;
+  border-radius:40px;
+  cursor: pointer;
+  font-family: 'poppins', sans-serif;
+
+}
+
+.awe{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.ex img{
+  position: absolute;
+  height: 350px;
+  width:300px;
+  bottom:0px;
+  left:0px;
+}
+.dada{
+  font-weight: 700;
+  font-size: 20px;
+  padding-top: 50px;
+  font-family: 'poppins',sans-serif;
+}
+.sisi{
+  padding-top: 10px;
+  color:#B8C0C8;
+  font-size: 14px;
+  font-family: 'poppins',sans-serif;
+}
+.contain{
+  text-align:center;
+}
+.big{
+  text-align: center;
+  margin-left: 25px;
+  background-color:#F0F0F0 ;
+  height: 450px;
+  width: 310px;
+  position: relative;
+  border-radius: 40px;
+  margin-top: 40px;
+}
+.dad1{
+  color: black;
+  font-weight: 700;
+  font-size: 20px;
+  padding-top: 30px;
+  font-family: 'poppins',sans-serif;
+}
+.sisi1{
+  padding-top: 10px;
+  color:#B8C0C8;
+  font-size: 12px;
+  font-family: 'poppins',sans-serif;
+}
+.jo{
+  position: absolute;
+  height: 320px;
+  width:300px;
+  bottom:0px;
+  left:0px;
+}
+
+.joz{
+  margin-top: 50px;
+  color: black;
+  font-size: 16px;
+  font-family: 'poppins',sans-serif;
+}
+.faq1{
+  display:flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top:30px;
+  font-family: 'poppins', sans-serif;
+  font-size: 14px;
+  height: 40px;
+  font-weight: bold;
+
+}
+
+.faq1 img{
+  height:40px;
+  width: 40px;
+}
+
+.to{
+  padding-top: 15px;
+}
+
+.faq2{
+  display:flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top:10px;
+  font-family: 'poppins', sans-serif;
+  font-size: 14px;
+  height: 80px;
+  font-weight: bold;
+}
+
+.faq2 img{
+  height: 60px;
+  width: 40px;
+  padding-top:20px;
+}
+
+hr{
+  width:320px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.faq3{
+  display:flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top:10px;
+  font-family: 'poppins', sans-serif;
+  font-size: 14px;
+  height: 40px;
+  font-weight: bold;
+}
+.las{
+  font-size: 14px;
+  margin-top:50px;
+  font-family: 'poppins',sans-serif;
+  margin-left:20px; 
+}
+
+.og{
+  font-size: 13px;
+  padding-top: 30px;
+  font-weight: 300;
+}
+
+.heaf{
+  display:flex;
+  justify-content: space-between;
+  font-family: 'poppins', sans-serif;
+  margin-left: 20px;
+  margin-top:30px;
+  font-weight: bold;
+  margin-right: 100px;
+  margin-bottom: 0px;
+  font-size: 14px;
+}
+
+.foot{
+  display: flex;
+  margin-top:0;
+  margin-left:20px;
+  margin-right:40px;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'poppins',sans-serif;
+  
+}
+.foot ul li{
+  list-style-type: none;
+  font-size: 13px;
+
+}
+
+.foot ul a{
+  text-decoration: none;
+  color: Black;
+}
+.fb{
+  margin-top:2px;
+  height:100px; 
+  line-height: 30px;
+  padding-right: 50px;
+}
+.ig{
+  margin-top: px;
+  height:100px;
+  line-height: 30px;
+}
+
+.heaf1{
+  display:flex;
+  justify-content: space-between;
+  font-family: 'poppins', sans-serif;
+  margin-left: 20px;
+  margin-top:10px;
+  font-weight: bold;
+  margin-right: 90px;
+  font-size:14px;
+  margin-bottom: 0px;
+}
+.fb1{
+  margin-top:2px;
+  height:70px; 
+  line-height: 30px;
+  padding-right: 100px;
+}
+.blog{
+  position:relative;
+  width:30px;
+}
+.js{
+  position: absolute;
+  bottom:0px;
+}
+.jss{
+  position: absolute;
+  display: flex;
+  background-color: dodgerblue;
+}
+.so{
+  position: absolute;
+  font-size: 12px;
+  bottom: 2px;
+
+}
+.ig1{
+  margin-top: 2px;
+  height:70px;
+  line-height: 30px;
+}
+.icon{
+  display: flex;
+  margin-left:20px;
+  gap:8px;
+  margin-bottom:50px;
+  margin-top: 5px;
+}
+.icons{
+  height: 20px;
+  width: 20px;
+  margin-top:0px;
+}
+
+.go{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top:20px;
+}
+.go p{
+  font-size: 12px;
+  font-family: 'poppins', sans-serif;
+}
+.go img{
+  height:20px;
+  width: 20px;
+}
+
